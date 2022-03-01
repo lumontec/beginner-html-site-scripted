@@ -15,5 +15,4 @@ function ilelapo_scripts() {
 
 }
 
-add_action( 'wp_enqueue_script', 'ilelapo_scripts' );
-add_action( 'wp_enqueue_style', 'ilelapo_style' );
+add_action( 'wp_enqueue_scripts', 'ilelapo_scripts' );
