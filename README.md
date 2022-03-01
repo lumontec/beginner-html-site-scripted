@@ -1,4 +1,4 @@
-# Run in developement
+# Run plain html (./plain)
 
 Install parceljs
 ```
@@ -16,10 +16,13 @@ yarn build
 ```
 
 
-# Packaging wordpress
+# Create wordpress theme (./wordpress) 
 
 Create wordpress plugin from parceljs project
 
 ```
 https://www.youtube.com/watch?v=JlDKMZ9nBBE
 ```
+
+
+
